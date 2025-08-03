@@ -1,2 +1,7 @@
 data/*
 runs/
+result/
+colorization_results.png
+pytorch_colorization_model.pth
+pytorch_colorization_weights.pth
+training_curves.png
